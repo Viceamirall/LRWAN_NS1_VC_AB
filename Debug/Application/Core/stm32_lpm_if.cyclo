@@ -1,0 +1,6 @@
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/stm32_lpm_if.c:80:6:PWR_EnterOffMode	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/stm32_lpm_if.c:87:6:PWR_ExitOffMode	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/stm32_lpm_if.c:96:6:PWR_ExitSleepMode	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/stm32_lpm_if.c:118:6:PWR_EnterStopMode	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/stm32_lpm_if.c:157:6:PWR_ExitStopMode	4
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/stm32_lpm_if.c:193:6:PWR_EnterSleepMode	1

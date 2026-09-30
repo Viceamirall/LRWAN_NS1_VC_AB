@@ -1,0 +1,14 @@
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/sys_app.c:86:6:SystemApp_Init	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/sys_app.c:136:6:HW_IoInit	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/sys_app.c:165:6:HW_IoDeInit	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/sys_app.c:187:6:UTIL_SEQ_Idle	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/sys_app.c:198:9:GetBatteryLevel	3
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/sys_app.c:230:10:GetTemperatureLevel	2
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/sys_app.c:241:6:GetUniqueId	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/sys_app.c:263:10:GetDevAddr	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/sys_app.c:275:6:Gpio_PreInit	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/sys_app.c:311:6:UTIL_ADV_TRACE_PreSendHook	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/sys_app.c:322:6:UTIL_ADV_TRACE_PostSendHook	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/sys_app.c:345:19:HAL_InitTick	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/sys_app.c:362:10:HAL_GetTick	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/sys_app.c:378:6:HAL_Delay	1

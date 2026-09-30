@@ -1,0 +1,11 @@
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/LRWAN_NS1/lrwan_ns1.c:69:18:Sensor_IO_Init	2
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/LRWAN_NS1/lrwan_ns1.c:90:18:LSM6DS0_Sensor_IO_ITConfig	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/LRWAN_NS1/lrwan_ns1.c:106:18:LSM6DS3_Sensor_IO_ITConfig	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/LRWAN_NS1/lrwan_ns1.c:164:18:LPS22HB_Sensor_IO_ITConfig	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/LRWAN_NS1/lrwan_ns1.c:217:9:Sensor_IO_Write	2
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/LRWAN_NS1/lrwan_ns1.c:243:9:Sensor_IO_Read	2
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/LRWAN_NS1/lrwan_ns1.c:268:16:I2C_EXPBD_Init	3
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/LRWAN_NS1/lrwan_ns1.c:317:16:I2C_EXPBD_WriteData	2
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/LRWAN_NS1/lrwan_ns1.c:349:16:I2C_EXPBD_ReadData	2
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/LRWAN_NS1/lrwan_ns1.c:378:13:I2C_EXPBD_Error	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/LRWAN_NS1/lrwan_ns1.c:396:13:I2C_EXPBD_MspInit	1

@@ -1,0 +1,7 @@
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/usart.c:50:19:HW_UART_Modem_Init	3
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/usart.c:100:6:HAL_UART_MspInit	3
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/usart.c:157:6:HAL_UART_MspDeInit	3
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/usart.c:343:6:HW_UART_Modem_IRQHandler	9
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/usart.c:426:12:HW_UART_Modem_IsNewCharReceived	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/usart.c:450:9:HW_UART_Modem_GetNewChar	1
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/usart.c:474:13:receive	2

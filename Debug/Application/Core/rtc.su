@@ -1,0 +1,3 @@
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/rtc.c:30:6:MX_RTC_Init	72	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/rtc.c:98:6:HAL_RTC_MspInit	80	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/Core/Src/rtc.c:131:6:HAL_RTC_MspDeInit	16	static

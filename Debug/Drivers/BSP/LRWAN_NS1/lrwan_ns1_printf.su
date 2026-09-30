@@ -1,0 +1,2 @@
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/LRWAN_NS1/lrwan_ns1_printf.c:9:10:dbg_buf_vsnprintf	40	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/LRWAN_NS1/lrwan_ns1_printf.c:23:19:dbg_printf_send	32	static

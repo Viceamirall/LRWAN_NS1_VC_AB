@@ -1,0 +1,6 @@
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/app_master.c:77:6:MX_Master_Init	8	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/app_master.c:94:6:MX_Master_Process	8	static,ignoring_inline_asm
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/app_master.c:136:6:Master_LED_Modem_Init	40	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/app_master.c:163:6:Master_LED_Modem_DeInit	40	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/app_master.c:180:6:Master_LED_Modem_On	16	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/app_master.c:190:6:Master_LED_Modem_Off	16	static

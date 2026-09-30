@@ -1,0 +1,16 @@
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/STM32L0xx_Nucleo/stm32l0xx_nucleo.c:152:10:BSP_GetVersion	8	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/STM32L0xx_Nucleo/stm32l0xx_nucleo.c:164:6:BSP_LED_Init	40	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/STM32L0xx_Nucleo/stm32l0xx_nucleo.c:191:6:BSP_LED_DeInit	40	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/STM32L0xx_Nucleo/stm32l0xx_nucleo.c:209:6:BSP_LED_On	16	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/STM32L0xx_Nucleo/stm32l0xx_nucleo.c:221:6:BSP_LED_Off	16	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/STM32L0xx_Nucleo/stm32l0xx_nucleo.c:233:6:BSP_LED_Toggle	16	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/STM32L0xx_Nucleo/stm32l0xx_nucleo.c:249:6:BSP_PB_Init	40	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/STM32L0xx_Nucleo/stm32l0xx_nucleo.c:287:6:BSP_PB_DeInit	48	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/STM32L0xx_Nucleo/stm32l0xx_nucleo.c:302:10:BSP_PB_GetState	16	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/STM32L0xx_Nucleo/stm32l0xx_nucleo.c:718:13:ADCx_MspInit	48	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/STM32L0xx_Nucleo/stm32l0xx_nucleo.c:743:13:ADCx_MspDeInit	40	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/STM32L0xx_Nucleo/stm32l0xx_nucleo.c:763:26:ADCx_Init	8	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/STM32L0xx_Nucleo/stm32l0xx_nucleo.c:810:13:ADCx_DeInit	8	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/STM32L0xx_Nucleo/stm32l0xx_nucleo.c:825:9:BSP_JOY_Init	8	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/STM32L0xx_Nucleo/stm32l0xx_nucleo.c:845:6:BSP_JOY_DeInit	8	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Drivers/BSP/STM32L0xx_Nucleo/stm32l0xx_nucleo.c:862:18:BSP_JOY_GetState	16	static
