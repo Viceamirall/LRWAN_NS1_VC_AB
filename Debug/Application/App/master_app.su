@@ -1,4 +1,4 @@
 ../../../../../../../../Drivers/CMSIS/Include/core_cm0plus.h:985:34:__NVIC_SystemReset	8	static,ignoring_inline_asm
 /home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/master_app.c:87:6:HAL_GPIO_EXTI_Callback	16	static
 /home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/master_app.c:141:6:MasterApp_Init	8	static
-/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/master_app.c:161:13:SensorMeasureData	32	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/master_app.c:161:13:SensorMeasureData	40	static

@@ -45,7 +45,9 @@ Application/App/master_app.o: \
  ../../../../../../../../Utilities/timer/stm32_timer.h \
  ../../../../../../../../Drivers/CMSIS/Include/cmsis_compiler.h \
  ../../../Core/Inc/utilities_conf.h \
- ../../../../../../../../Utilities/misc/stm32_systime.h
+ ../../../../../../../../Utilities/misc/stm32_systime.h \
+ ../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_printf.h \
+ ../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_atcmd.h
 ../../../Core/Inc/platform.h:
 ../../../../../../../../Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l0xx.h:
 ../../../../../../../../Drivers/CMSIS/Device/ST/STM32L0xx/Include/stm32l073xx.h:
@@ -95,3 +97,5 @@ Application/App/master_app.o: \
 ../../../../../../../../Drivers/CMSIS/Include/cmsis_compiler.h:
 ../../../Core/Inc/utilities_conf.h:
 ../../../../../../../../Utilities/misc/stm32_systime.h:
+../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_printf.h:
+../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_atcmd.h:

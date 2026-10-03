@@ -48,8 +48,8 @@
 /home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/lora_driver.c:1785:12:Lora_SleepMode	32	static
 /home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/lora_driver.c:1801:12:Lora_SetWDT	32	static
 /home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/lora_driver.c:1914:6:Lora_fsm	72	static
-/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/lora_driver.c:2239:6:Lora_Ctx_Init	16	static
-/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/lora_driver.c:2302:15:lora_getDeviceState	8	static
-/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/lora_driver.c:2316:13:Lora_OnNextSensorMeasureTimerEvt	16	static
-/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/lora_driver.c:2344:13:Lora_OnJoinStatusDelayTimerEvt	16	static
-/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/lora_driver.c:2358:13:Lora_OnLedTimerEvent	16	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/lora_driver.c:2241:6:Lora_Ctx_Init	16	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/lora_driver.c:2304:15:lora_getDeviceState	8	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/lora_driver.c:2318:13:Lora_OnNextSensorMeasureTimerEvt	16	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/lora_driver.c:2346:13:Lora_OnJoinStatusDelayTimerEvt	16	static
+/home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/lora_driver.c:2360:13:Lora_OnLedTimerEvent	16	static
