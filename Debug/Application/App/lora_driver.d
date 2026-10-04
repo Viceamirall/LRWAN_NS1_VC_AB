@@ -45,6 +45,8 @@ Application/App/lora_driver.o: \
  ../../../Core/Inc/utilities_conf.h ../../../Core/Inc/ee.h \
  ../../../../../../../../Utilities/misc/stm32_mem.h \
  /home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/app_master.h \
+ ../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_printf.h \
+ ../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_atcmd.h \
  ../../../Core/Inc/usart.h
 ../../../Core/Inc/sys_debug.h:
 ../../../Core/Inc/sys_conf.h:
@@ -93,4 +95,6 @@ Application/App/lora_driver.o: \
 ../../../Core/Inc/ee.h:
 ../../../../../../../../Utilities/misc/stm32_mem.h:
 /home/victor/STM32CubeIDE/lrwan_v2.1.0_lora/Projects/NUCLEO-L073RZ/Applications/LoRaWAN/LoRaWAN_AT_Master/LoRaWAN/App/app_master.h:
+../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_printf.h:
+../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_atcmd.h:
 ../../../Core/Inc/usart.h:
