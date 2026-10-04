@@ -41,7 +41,24 @@ Application/App/master_app.o: \
  ../../../Core/Inc/sys_conf.h \
  ../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_atcmd.h \
  ../../../../../../../../Drivers/BSP/LRWAN_NS1/atcmd_modem.h \
- ../../../Core/Inc/sys_sensors.h ../../../Core/Inc/rtc_if.h \
+ ../../../Core/Inc/sys_sensors.h \
+ ../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_temperature.h \
+ ../../../../../../../../Drivers/BSP/Components/hts221/HTS221_Driver_HL.h \
+ ../../../../../../../../Drivers/BSP/Components/Common/humidity.h \
+ ../../../../../../../../Drivers/BSP/Components/Common/sensor.h \
+ ../../../../../../../../Drivers/BSP/Components/Common/component.h \
+ ../../../../../../../../Drivers/BSP/Components/Common/temperature.h \
+ ../../../../../../../../Drivers/BSP/Components/hts221/HTS221_Driver.h \
+ ../../../../../../../../Drivers/BSP/Components/lps25hb/LPS25HB_Driver_HL.h \
+ ../../../../../../../../Drivers/BSP/Components/Common/pressure.h \
+ ../../../../../../../../Drivers/BSP/Components/lps25hb/LPS25HB_Driver.h \
+ ../../../../../../../../Drivers/BSP/Components/lps22hb/LPS22HB_Driver_HL.h \
+ ../../../../../../../../Drivers/BSP/Components/lps22hb/LPS22HB_Driver.h \
+ ../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1.h \
+ ../../../../../../../../Drivers/BSP/Components/Common/accelerometer.h \
+ ../../../../../../../../Drivers/BSP/Components/Common/gyroscope.h \
+ ../../../../../../../../Drivers/BSP/Components/Common/magnetometer.h \
+ ../../../Core/Inc/rtc_if.h \
  ../../../../../../../../Utilities/timer/stm32_timer.h \
  ../../../../../../../../Drivers/CMSIS/Include/cmsis_compiler.h \
  ../../../Core/Inc/utilities_conf.h \
@@ -92,6 +109,22 @@ Application/App/master_app.o: \
 ../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_atcmd.h:
 ../../../../../../../../Drivers/BSP/LRWAN_NS1/atcmd_modem.h:
 ../../../Core/Inc/sys_sensors.h:
+../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_temperature.h:
+../../../../../../../../Drivers/BSP/Components/hts221/HTS221_Driver_HL.h:
+../../../../../../../../Drivers/BSP/Components/Common/humidity.h:
+../../../../../../../../Drivers/BSP/Components/Common/sensor.h:
+../../../../../../../../Drivers/BSP/Components/Common/component.h:
+../../../../../../../../Drivers/BSP/Components/Common/temperature.h:
+../../../../../../../../Drivers/BSP/Components/hts221/HTS221_Driver.h:
+../../../../../../../../Drivers/BSP/Components/lps25hb/LPS25HB_Driver_HL.h:
+../../../../../../../../Drivers/BSP/Components/Common/pressure.h:
+../../../../../../../../Drivers/BSP/Components/lps25hb/LPS25HB_Driver.h:
+../../../../../../../../Drivers/BSP/Components/lps22hb/LPS22HB_Driver_HL.h:
+../../../../../../../../Drivers/BSP/Components/lps22hb/LPS22HB_Driver.h:
+../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1.h:
+../../../../../../../../Drivers/BSP/Components/Common/accelerometer.h:
+../../../../../../../../Drivers/BSP/Components/Common/gyroscope.h:
+../../../../../../../../Drivers/BSP/Components/Common/magnetometer.h:
 ../../../Core/Inc/rtc_if.h:
 ../../../../../../../../Utilities/timer/stm32_timer.h:
 ../../../../../../../../Drivers/CMSIS/Include/cmsis_compiler.h:
