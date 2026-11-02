@@ -47,7 +47,12 @@ Application/Core/sys_sensors.o: \
  ../../../../../../../../Drivers/STM32L0xx_HAL_Driver/Inc/stm32l0xx_hal_uart_ex.h \
  ../../../../../../../../Drivers/BSP/Components/Common/accelerometer.h \
  ../../../../../../../../Drivers/BSP/Components/Common/gyroscope.h \
- ../../../../../../../../Drivers/BSP/Components/Common/magnetometer.h
+ ../../../../../../../../Drivers/BSP/Components/Common/magnetometer.h \
+ ../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_humidity.h \
+ ../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_pressure.h \
+ ../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_printf.h \
+ ../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_atcmd.h \
+ ../../../../../../../../Drivers/BSP/LRWAN_NS1/atcmd_modem.h
 ../../../Core/Inc/sys_sensors.h:
 ../../../Core/Inc/sys_conf.h:
 ../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_temperature.h:
@@ -97,3 +102,8 @@ Application/Core/sys_sensors.o: \
 ../../../../../../../../Drivers/BSP/Components/Common/accelerometer.h:
 ../../../../../../../../Drivers/BSP/Components/Common/gyroscope.h:
 ../../../../../../../../Drivers/BSP/Components/Common/magnetometer.h:
+../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_humidity.h:
+../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_pressure.h:
+../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_printf.h:
+../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_atcmd.h:
+../../../../../../../../Drivers/BSP/LRWAN_NS1/atcmd_modem.h:

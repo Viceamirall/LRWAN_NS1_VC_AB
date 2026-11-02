@@ -58,6 +58,8 @@ Application/App/master_app.o: \
  ../../../../../../../../Drivers/BSP/Components/Common/accelerometer.h \
  ../../../../../../../../Drivers/BSP/Components/Common/gyroscope.h \
  ../../../../../../../../Drivers/BSP/Components/Common/magnetometer.h \
+ ../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_humidity.h \
+ ../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_pressure.h \
  ../../../Core/Inc/rtc_if.h \
  ../../../../../../../../Utilities/timer/stm32_timer.h \
  ../../../../../../../../Drivers/CMSIS/Include/cmsis_compiler.h \
@@ -125,6 +127,8 @@ Application/App/master_app.o: \
 ../../../../../../../../Drivers/BSP/Components/Common/accelerometer.h:
 ../../../../../../../../Drivers/BSP/Components/Common/gyroscope.h:
 ../../../../../../../../Drivers/BSP/Components/Common/magnetometer.h:
+../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_humidity.h:
+../../../../../../../../Drivers/BSP/LRWAN_NS1/lrwan_ns1_pressure.h:
 ../../../Core/Inc/rtc_if.h:
 ../../../../../../../../Utilities/timer/stm32_timer.h:
 ../../../../../../../../Drivers/CMSIS/Include/cmsis_compiler.h:
