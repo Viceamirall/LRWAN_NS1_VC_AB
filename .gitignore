@@ -1,0 +1,50 @@
+# Répertoires de compilation générés par STM32CubeIDE
+/Debug/
+/Release/
+/build/
+/Build/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+*.cyclo
+
+# Environnement Python et caches locaux
+/.venv/
+/venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+
+# Mesures et graphe livrés au professeur ; relectures temporaires ignorées
+/captures_question7/*
+!/captures_question7/mesures.csv
+!/captures_question7/courbes.png
+!/captures_question7/uplinks.jsonl
+
+# Configuration propre à la machine et fichiers temporaires
+/LRWAN_NS1.launch
+/.settings/language.settings.xml
+/.metadata/
+/.codex/
+/.agents/
+/.aws/
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# Énoncé du TP, conservé localement
+/TP2IoT.pdf
